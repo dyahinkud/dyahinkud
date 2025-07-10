@@ -84,7 +84,7 @@ I'm a dedicated **Frontend Developer**, **UI/UX Designer**, and **Data & Machine
   <a href="https://github.com/dyahinkud" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-dyahinkud-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/147ZFvx65xY7-ipnzibUbVU02NILkypxM/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1NsA1u-MEBlVU2NbiZ0aBKeRpI6HErRBp/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-View%20My%20CV-blue?style=flat&logo=readme&logoColor=white" />
   </a>
 </div>
