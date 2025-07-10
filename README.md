@@ -33,10 +33,8 @@ I'm a dedicated **Frontend Developer**, **UI/UX Designer**, and **Data & Machine
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamys&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggamys&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dyahinkud&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyahinkud&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ## 🧰 Tech Stack & Toolbox
@@ -44,58 +42,49 @@ I'm a dedicated **Frontend Developer**, **UI/UX Designer**, and **Data & Machine
 <div align="center">
 
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 
-<!-- Backend -->
-<img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white" />
+<!-- UI/UX -->
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" />
+<img src="https://img.shields.io/badge/User%20Research-5A67D8?style=flat&logo=researchgate&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireframing-4A5568?style=flat&logo=sketch&logoColor=white" />
+<img src="https://img.shields.io/badge/Prototyping-319795?style=flat&logo=figshare&logoColor=white" />
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+<!-- Data & Analysis -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 
-<!-- Database -->
-<img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-
-<!-- DevOps & Tools -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-
-<!-- Other Tools -->
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<!-- System Analysis & Tools -->
+<img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white" />
+<img src="https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=diagrams.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Paradigm-000000?style=flat&logo=data&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/ROS-000000?style=flat&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 
 </div>
 
 ## 🤝 Let's Collaborate
 
 <div align="center">
-  <a href="mailto:anggayunus139@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-anggayunus139%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" />
+  <a href="mailto:dyahinkud@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-dyahinkud9%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" />
   </a>
-  <a href="https://www.linkedin.com/in/moh-angga" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Moh.Angga-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/dyahinkud" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dyah Inkud Daifatur Rahma-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/anggamys" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-anggamys-181717?style=flat&logo=github&logoColor=white" />
+  <a href="https://github.com/dyahinkud" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-dyahinkud-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/147ZFvx65xY7-ipnzibUbVU02NILkypxM/view?usp=sharing" target="_blank">
+  <a href="[https://drive.google.com/file/d/147ZFvx65xY7-ipnzibUbVU02NILkypxM/view?usp=sharing](https://drive.google.com/file/d/1NsA1u-MEBlVU2NbiZ0aBKeRpI6HErRBp/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/badge/CV-View%20My%20CV-blue?style=flat&logo=readme&logoColor=white" />
   </a>
 </div>
