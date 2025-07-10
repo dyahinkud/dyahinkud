@@ -76,7 +76,7 @@ I'm a dedicated **Frontend Developer**, **UI/UX Designer**, and **Data & Machine
 
 <div align="center">
   <a href="mailto:dyahinkud@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-dyahinkud9%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" />
+    <img src="https://img.shields.io/badge/Email-dyahinkud%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/dyahinkud" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dyah Inkud Daifatur Rahma-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -84,13 +84,13 @@ I'm a dedicated **Frontend Developer**, **UI/UX Designer**, and **Data & Machine
   <a href="https://github.com/dyahinkud" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-dyahinkud-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="[https://drive.google.com/file/d/147ZFvx65xY7-ipnzibUbVU02NILkypxM/view?usp=sharing](https://drive.google.com/file/d/1NsA1u-MEBlVU2NbiZ0aBKeRpI6HErRBp/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/147ZFvx65xY7-ipnzibUbVU02NILkypxM/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-View%20My%20CV-blue?style=flat&logo=readme&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anggamys&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dyahinkud&label=Profile%20Views&color=blue&style=flat" />
 </div>
 
 > ☕ Outside of tech, I enjoy brainstorming app ideas, exploring data patterns, and sharing thoughtful UI concepts.
